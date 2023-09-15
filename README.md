@@ -1,6 +1,6 @@
 <div align = center>
 
-![header](https://github.com/jcho0127/jcho0127/blob/main/Nametag.svg?raw=true)  
+
 # 📊 Github Statistics
   
 [<img width=82.5% src="https://github-readme-stats.vercel.app/api?username=jcho0127">](https://github.com/jcho0127)
