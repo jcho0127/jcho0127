@@ -1,10 +1,6 @@
 <div align = center>
 
 
-# 📊 Github Statistics
-  
-[<img width=82.5% src="https://github-readme-stats.vercel.app/api?username=jcho0127">](https://github.com/jcho0127)
-[<img width=82.5% src="https://github-profile-trophy.vercel.app/?username=jcho0127">](https://github.com/jcho0127)  
 
 &nbsp;
 # 🖥️ Programming Stacks
